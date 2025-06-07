@@ -8,20 +8,12 @@
 
 ## Important
 
-I'm currently studying mathematics at Aix-Marseille University and building strong skills in data science, machine learning, and applied math.
+I'm currently studying mathematics.
 
-I'm passionate about solving real-world problems with data. My current interests include time series forecasting, machine learning models, and reproducible notebooks.
 
-Right now, I’m focusing on personal projects and improving my Kaggle profile.
 
 ---
-=
----
 
-## 🧰 Tech & Tools
-`Python` • `NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `Seaborn` • `Jupyter/Colab` • `GitHub`
-
----
 
 
 ## 📫 Contact
