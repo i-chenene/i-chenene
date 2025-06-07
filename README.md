@@ -1,50 +1,51 @@
-<h2 align="center">Hi, I'm Iliès</h2>
+# Hello, I'm Iliès 👋
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ili%C3%A8s-chenene-499228327/)](https://www.linkedin.com/in/ili%C3%A8s-chenene-499228327/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/ichenene)](https://www.kaggle.com/ichenene)
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://aymane.github.io)](https://aymane.github.io)
+[![Profile views](https://komarev.com/ghpvc/?username=ichenene&color=blue)](https://github.com/ichenene)
+
+---
+
+## Important
+
+I'm currently studying mathematics at Aix-Marseille University and building strong skills in data science, machine learning, and applied math.
+
+I'm passionate about solving real-world problems with data. My current interests include time series forecasting, machine learning models, and reproducible notebooks.
+
+Right now, I’m focusing on personal projects and improving my Kaggle profile.
+
+---
+
+## 📌 Featured Projects
+
+- 🏠 **[Airbnb Price Prediction](https://github.com/ichenene/airbnb-price-prediction)** — Regression models on Paris Airbnb listings  
+- 🧠 **[Twitter Sentiment Analysis](https://github.com/ichenene/twitter-sentiment)** — NLP + logistic regression on tweets  
+- ⚡ **[Electricity Forecasting](https://github.com/ichenene/energy-forecasting)** — Time series prediction of consumption  
+
+---
+
+## 🧰 Tech & Tools
+`Python` • `NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `Seaborn` • `Jupyter/Colab` • `GitHub`
+
+---
+
+## 🧭 Goals for 2025
+
+- ✅ Build a solid GitHub portfolio
+- ✅ Reach Kaggle Competitions Contributor
+- 🚀 Apply for M2 Data Science / Applied Math programs
+- 📚 Keep improving in statistics & ML theory
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/iliès-chenene-499228327](https://www.linkedin.com/in/ili%C3%A8s-chenene-499228327/)
+- Kaggle: [kaggle.com/ichenene](https://www.kaggle.com/ichenene)
+
+---
 
 <p align="center">
-  Aspiring Data Scientist. Currently Math student.
-</p>
-
----
-
-### 🔬 About me
-- 🎓 I'm currently studying mathematics with a focus on data science.
-- 🧠 I'm learning about machine learning, data visualization, and statistics.
-- 🚀 My goal is to build a solid portfolio with real and impactful data projects.
-- 🛠️ Currently working on Kaggle datasets and personal challenges.
-
----
-
-### 📌 Projects
-
-| Project                            | Description                                             | Tools/Topics                     |
-|------------------------------------|---------------------------------------------------------|----------------------------------|
-| [Airbnb Price Prediction](https://github.com/aymane-dev/airbnb-price-prediction) | Predicting housing prices using regression models       | `pandas`, `scikit-learn`, `EDA` |
-| [Twitter Sentiment Analysis](https://github.com/aymane-dev/twitter-sentiment)     | Classifying tweet sentiment with NLP                    | `NLP`, `TF-IDF`, `LogReg`        |
-| [Energy Forecasting](https://github.com/aymane-dev/energy-forecasting)            | Time series forecast of electricity consumption         | `TimeSeries`, `xgboost`          |
-
----
-
-### 🧰 Tools & Skills
-
-<p>
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/Scikit--learn-black?style=for-the-badge&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib" />
-  <img src="https://img.shields.io/badge/Colab-black?style=for-the-badge&logo=googlecolab" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</p>
-
----
-
-### 📫 Contact & Links
-
-- ✉️ Email: ilies.chenen@gmail.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ili%C3%A8s-chenene-499228327/)  
-- 🧠 [Kaggle](https://www.kaggle.com/ichenene)
-
----
-
-<p align="center">
-  ⚡ Learning every day. Building, testing, failing, improving.
+  Keep learning. Keep building. One project at a time.
 </p>
