@@ -6,7 +6,6 @@
 
 ---
 
-## Important
 
 I'm currently studying mathematics.
 
