@@ -5,7 +5,7 @@
 
 ---
 
-# I am Iliès CHENENE, a first-year Master’s student in Mathematics and Artificial Intelligence at Université Paris-Saclay.
+I am Iliès CHENENE, a first-year Master’s student in Mathematics and Artificial Intelligence at Université Paris-Saclay.
 
 
 
