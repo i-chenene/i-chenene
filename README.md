@@ -14,7 +14,7 @@ I am Iliès CHENENE, a first-year Master’s student in Mathematics and Artifici
 
 
 ## 📫 Contact
-- Email : ilies.chenen@gmail.com
+- Email : ilies.chenene@universite-paris-saclay.fr
 - LinkedIn: [in/ilieschenene](in/ilieschenene)
 - Kaggle: [kaggle.com/ichenene](https://www.kaggle.com/ichenene)
 
