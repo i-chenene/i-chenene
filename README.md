@@ -6,13 +6,14 @@
 
 
 ---
+## Profil
+
+Master’s student in Mathematics and Artificial Intelligence at Universit´e Paris-Saclay (Orsay campus). Interested in statistics and machine learning, seeking a 4–5 month research internship starting April 2025 in the Paris area.
 
 
-
-## 📫 Contact
+## Contact
 - Email : ilies.chenene@universite-paris-saclay.fr
 - LinkedIn: [in/ilieschenene](in/ilieschenene)
-- Kaggle: [kaggle.com/ichenene](https://www.kaggle.com/ichenene)
 
 ---
 
