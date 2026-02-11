@@ -1,6 +1,4 @@
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ilieschenene/)](https://www.linkedin.com/in/ilieschenene/)
-[![Profile views](https://komarev.com/ghpvc/?username=ichenene&color=blue)](https://github.com/ichenene)
 
 
 
