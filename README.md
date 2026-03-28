@@ -1,6 +1,6 @@
 ## Iliès Chenene
 
-M1 Mathematics & AI @ Paris-Saclay. Currently interning at [Morphism](https://morphism.ai),
+M1 Mathematics & AI @ Paris-Saclay. Currently interning at [Morphism.co](https://morphism.co),
 working on inauthentic account detection and bot virality on decentralized social networks (Bluesky / AT Protocol).
 
 Interested in deep learning research, multimodal models, and applied ML at scale.
