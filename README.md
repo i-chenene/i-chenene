@@ -1,7 +1,1 @@
-## Iliès Chenene
-
-M1 Mathematics & AI @ Paris-Saclay · [ichenene.cv](https://ichenene.cv)
-
-Currently interning at [Morphism](https://morphism.co), building ML pipelines
-for inauthentic account detection on social networks.
 
